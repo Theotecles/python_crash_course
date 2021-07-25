@@ -1,0 +1,5 @@
+In Python you can create functions for specific purposes
+In Python you can create classes that model real world objects
+In Python you can create loops that iterate for specific purposes
+In Python you can create lists and dictionaries to hold data
+In Python you can do a whole bunch of cool things
